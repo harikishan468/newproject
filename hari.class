@@ -1,8 +1,8 @@
 class hari {
  
      public static void main(string[] args ){
-      system.out.println("This is a new Java program")
-
+      System.out.println("This is a new Java program")
+      System.out.println("This is the second line in the program")
 
 
 }
